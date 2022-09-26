@@ -1,1 +1,2 @@
-Print("Sveiki, skolēni!")
+print("Sveiki, skolēni!")
+
